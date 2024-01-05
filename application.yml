@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIG-SERVERS
+    name: CONFIG-SERVERS-GIT
 
 
 eureka:
